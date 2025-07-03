@@ -19,7 +19,7 @@ A sleek, modern chatbot powered by Google's **Gemini Pro API** with advanced fea
 
 ## 📸 Demo
 
-> Coming soon: [https://gemini-chatbot-three-pi.vercel.app/](#)
+> Here is Demo: [https://gemini-chatbot-three-pi.vercel.app/](#)
 
 ---
 
